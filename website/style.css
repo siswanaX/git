@@ -1,0 +1,38 @@
+h1{
+	font-size: 70px ;
+	text-align: center ;
+	text-shadow: 2px 2px skyblue;
+    font-family: sans-serif; 
+}
+
+body{
+	background-image: url("/home/quirky/myWebsite/images/The-Church-Studios-7.jpg");
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-image: url("/home/quirky/myWebsite/images/The-Church-Studios-7.jpg");
+    padding: 20px;
+    border-radius: 10px ;
+}
+
